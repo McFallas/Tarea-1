@@ -1,4 +1,4 @@
-# <p style="text-align: center;"> **Distribución de especies de felinos en Costa Rica** </p>
+# **Distribución de especies de felinos en Costa Rica** 
 
 
 # Introducción
@@ -19,7 +19,7 @@ Este sitio web tiene como objetivo proporcionar una visión detallada de las esp
 ## Descripción general de las especies
 
 * **Jaguar _(Panthera onca)_**
-<p style='text-align: center;'>
+
 <img src="Jaguar.jpg" height="300" >
 
 
