@@ -22,6 +22,7 @@ Este sitio web tiene como objetivo proporcionar una visión detallada de las esp
 
 <img src="Jaguar.jpg" height="300" >
 
+Imagen de [Procuraduria Federal de Proteccion al Ambiente ](https://www.gob.mx/cms/uploads/image/file/578083/Jaguar.jpg)
 
 El [jaguar](https://www.nationalgeographicla.com/animales/2020/04/jaguar) es el felino más grande de América y el tercero más grande del mundo, después de los tigres y los leones. En la actualidad solo se encuentra en el 33% de su distribución original.
 &nbsp;
@@ -54,4 +55,30 @@ Por su parte, la caza furtiva también constituye otro problema grave. Ya que lo
 
 * **Ocelote (_Leopardus pardalis_)**
 
-El [ocelote](https://www.ngenespanol.com/animales/ocelote-el-pequeno-tigre-de-america-que-esta-en-riesgo/) es un felino mediano conocido por su pelaje único con manchas y rayas, lo que lo hace fácilmente identificable. Aunque es solitario y nocturno, se le puede avistar en varias regiones del país.
+<img src="Ocelote.jpg" height="300" >
+
+Imagen de [NATIONAL GEOGRAPHIC](https://www.ngenespanol.com/wp-content/uploads/2022/10/ocelote-el-pequeno-tigre-de-america-que-esta-en-riesgo-770x431.jpg)
+
+El [ocelote](https://www.ngenespanol.com/animales/ocelote-el-pequeno-tigre-de-america-que-esta-en-riesgo/) es un felino mediano conocido por su pelaje único con manchas y rayas, lo que lo hace fácilmente identificable. Aunque es solitario y nocturno, se le puede avistar en varias regiones del país. 
+&nbsp;
+
+Se caracteriza por su visión y oído. Por su agudeza, le resultan útiles al momento de cazar roedores y otros animales de tamaño menor. Cabe recalcar que actualmente está en peligro de extinción. 
+
+Este felino es solitario y suele refugiarse en cuevas, troncos, y ramas. Al igual que los jaguares, los ocelotes solo se encuentran entre ellos para fines de reproducción ya que son muy territoriales (Milo, 2022). 
+
+#### Hábitat y Distribución Geográfica
+
+El ocelote habita principalmente en los bosques tropicales y subtropicales del Pacífico y el Caribe.
+Además, prefiere áreas con densa vegetación donde pueda cazar pequeños mamíferos, aves, y reptiles.
+
+Según PFPA (2020), el ocelote se desarrolla en una gran variedad de tipos de hábitat, que incluyen bosque espinoso y matorral xerófilo, y en el bosque mesófilo de montaña, selvas húmedas y secas.
+
+#### Amenazas y Estado de Conservación
+
+De acuerdo al PFPA (2020), "el ocelote se ubica en la categoría en Peligro de Extinción." La perdida de su habitat, la cacería ilegal, la disminución de presas y la extracción de organismo para comercializar son las principales razones del porqué esta especie se encuentra en este grado de vulnerabilidad. 
+
+Tal como ocurre con el jaguar, la fragmentación del hábitat es determinante en la conservación del ocelote. Asimismo, la existencia de actividades agrícolas y ganaderas,  Por una parte, el desarrollo de las actividades agrícolas y ganaderas y la amenaza de la cacería furtiva afecta la disponibilidad de alimento. También se destaca el tráfico ilegal de sus productos (piel y colmillos) en el mercado negro (PFPA, 2020). 
+
+&nbsp;
+
+* **Puma (_Puma concolor_)**
