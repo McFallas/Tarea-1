@@ -82,3 +82,23 @@ Tal como ocurre con el jaguar, la fragmentación del hábitat es determinante en
 &nbsp;
 
 * **Puma (_Puma concolor_)**
+
+<img src="Puma.jpg" height="300" >
+
+Imagen de [Procuraduria Federal de Proteccion al Ambiente ](https://www.gob.mx/cms/uploads/press/main_image/113662/post_PUMA.jpg)
+
+El [puma](https://www.nationalgeographicla.com/animales/puma) es un animal solitario y realiza sus actividades a partir del atardecer. A diferencia de los felinos antes mencionados. El puma es, después del jaguar, el felino de mayor tamaño en América. 
+
+Según PFPA (2021) "Una hembra puede tener una camada cada dos años, después del apareamiento las hembras tienen en promedio 2.67 crías. En zonas templadas el promedio es de 3 crías y en zonas tropicales es de 1 cría, aunque normalmente, en la primera camada tiene sólo una cría."
+
+Además, estos felinos no rugen, si no que emiten gruñidos, ronroneos e incluso silbídos agudos (PFPA, 2021).
+
+#### Hábitat y Distribución Geográfica
+
+Habita en todo tipo de vegetación del país, desde el nivel del mar, hasta 4,000 m de altitud (PFPA, 2021).
+
+A pesar de que son animales solitarios y tímidos los pumas pueden vivir en regiones transitadas por el hombre, sin embargo es indispensable que tenagn buenos escondites como peñascos o barrancos profundos (PFPA, 2021). Lo anterior nos da una visión sobre la gran adaptibilidad de esta especie. La misma capacidad de adaptación que posee, le permite, si fuese necesario, distribuirse por diferentes ecosistemas como lo son, bosques, desiertos, selvas y montañanas nevadas (NATIONAL GEOGRAPHIC, s.f).
+
+ #### Amenazas y Estado de Conservación
+
+ El puma se encuentra en una posición bastante vulnerable, ya que a pesar de adaptarse a diferentes ecosistemas, se ve constantemente desplazado por amenazas como las que menciona la PFPA (2021), las cuales son la caza furtiva para fines de tráfico ilegal y uso de piel para temas religiosos; y la destrucción de su hábitat como consecuencia de la urbanización.
