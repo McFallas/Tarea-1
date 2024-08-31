@@ -98,7 +98,7 @@ Además, estos felinos no rugen, si no que emiten gruñidos, ronroneos e incluso
 Habita en todo tipo de vegetación del país, desde el nivel del mar, hasta 4,000 m de altitud (PFPA, 2021).
 
 A pesar de que son animales solitarios y tímidos los pumas pueden vivir en regiones transitadas por el hombre, sin embargo es indispensable que tenagn buenos escondites como peñascos o barrancos profundos (PFPA, 2021). Lo anterior nos da una visión sobre la gran adaptibilidad de esta especie. La misma capacidad de adaptación que posee, le permite, si fuese necesario, distribuirse por diferentes ecosistemas como lo son, bosques, desiertos, selvas y montañanas nevadas (NATIONAL GEOGRAPHIC, s.f).
+&nbsp;
 
 #### Amenazas y Estado de Conservación
-
 El puma se encuentra en una posición bastante vulnerable, ya que a pesar de adaptarse a diferentes ecosistemas, se ve constantemente desplazado por amenazas como las que menciona la PFPA (2021), las cuales son la caza furtiva para fines de tráfico ilegal y uso de piel para temas religiosos; y la destrucción de su hábitat como consecuencia de la urbanización.
