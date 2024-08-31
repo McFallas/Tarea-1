@@ -102,3 +102,35 @@ A pesar de que son animales solitarios y tímidos los pumas pueden vivir en regi
 
 #### Amenazas y Estado de Conservación
 El puma se encuentra en una posición bastante vulnerable, ya que a pesar de adaptarse a diferentes ecosistemas, se ve constantemente desplazado por amenazas como las que menciona la PFPA (2021), las cuales son la caza furtiva para fines de tráfico ilegal y uso de piel para temas religiosos; y la destrucción de su hábitat como consecuencia de la urbanización.
+
+## Datos Geoespaciales
+##### ___Tabla #2___
+
+|   Tipo de variable        | Utilidad             | 
+|:-------------------------:|:--------------------:|
+| Categórica                |  Para facilitar la identificación de felinos   |
+| Descriptiva               |Descripción del felino observado|
+| Ubicación                 |  Para determinar la coordenada espacial de donde se tuvo la observación   |
+
+Los datos a utilizar, se obtendrán de fuentes que contextualicen la distribución de las especies mediante la implementación de un Survey en el cual estará la opción de reportar una nueva observación; fijando la ubicación, o bien, con los reportes existentes actualmente y de esta manera, lograr mapear la distribución de estos felinos. 
+&nbsp;
+
+## Preguntas a responder:
+Con los resultados obtenidos a partir de la recolección de datos, me interesaría responder/me una serie de preguntas:
+
+1. ¿Existen regiones específicas donde se observan con mayor frecuencia ciertas especies de felinos?
+2. ¿Algunas especies de felinos muestran preferencia por ciertos hábitats (por ejemplo, áreas boscosas, pastizales)?
+3. ¿Cómo afecta la presencia de actividades humanas (agricultura, urbanización) a la distribución de estas especies?
+4. ¿Existen tendencias que indiquen una expansión o contracción de sus hábitats?
+5. ¿Existen regiones donde los esfuerzos de conservación deberían priorizarse según la presencia de especies vulnerables?
+6. ¿Hay evidencia de superposición espacial entre diferentes especies de felinos, y qué podría indicar esto sobre sus interacciones (por ejemplo, competencia, coexistencia)?
+7. ¿Cómo se correlacionan factores ambientales como elevación, temperatura y tipo de vegetación con la distribución de las diferentes especies de felinos?
+
+## Referencias bibliográficas:
+
+1. Milo, A. (2022). Así es el ocelote, el gran ‘cazador solitario’ que domina el continente americano. _National Geographic_. [https://www.ngenespanol.com/animales/ocelote-el-pequeno-tigre-de-america-que-esta-en-riesgo/](https://www.ngenespanol.com/animales/ocelote-el-pequeno-tigre-de-america-que-esta-en-riesgo/)
+2. National Geographic. (s.f). Puma. _National Geographic._ [https://www.nationalgeographicla.com/animales/puma](https://www.nationalgeographicla.com/animales/puma)
+3. Procuraduria Federal de Proteccion al Ambiente. (2020). Ocelote _(Leopardus pardalis)_. _Gobierno de México_. [https://www.gob.mx/profepa/articulos/ocelote-leopardus-pardalis?idiom=es](https://www.gob.mx/profepa/articulos/ocelote-leopardus-pardalis?idiom=es)
+4. Procuraduria Federal de Proteccion al Ambiente. (2020). Protección al felino más grande de América, el jaguar. _Gobierno de México_. [https://www.gob.mx/profepa/articulos/proteccion-al-felino-mas-grande-de-america-el-jaguar?idiom=es](https://www.gob.mx/profepa/articulos/proteccion-al-felino-mas-grande-de-america-el-jaguar?idiom=es)
+5. Procuraduria Federal de Proteccion al Ambiente. (2021). Día internacional del puma. _Gobierno de México_. [https://www.gob.mx/profepa/articulos/dia-internacional-del-puma?idiom=es](https://www.gob.mx/profepa/articulos/dia-internacional-del-puma?idiom=es)
+6. Redacción National Geographic. (2021). Jaguar. _National Geographic_. [https://www.nationalgeographicla.com/animales/2020/04/jaguar](https://www.nationalgeographicla.com/animales/2020/04/jaguar)
